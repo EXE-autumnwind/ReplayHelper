@@ -1,0 +1,13 @@
+{
+  "id": "rp",
+  "version": "1.0.0",
+  "name": "ReplayHelper",
+  "description": {
+    "zh_cn": "一个ReplayServer控制器"
+},
+  "author": "EXE_autumnwind",
+  "link": "https://github.com/EXE-autumnwind/ReplayHelper",
+  "dependencies": {
+      "mcdreforged": ">=2.0.0"
+  }
+}
