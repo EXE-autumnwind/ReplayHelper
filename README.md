@@ -1,6 +1,6 @@
 # ReplayHelper
 
-ReplayHelper 可以利用[ServerReplay](https://modrinth.com/mod/server-replay) Mod，以 `.mcpr` 格式为每位玩家单独录制并自动切断。
+ReplayHelper 可以利用[ServerReplay](https://modrinth.com/mod/server-replay)Mod，以 `.mcpr` 格式为每位玩家单独录制并自动切断。
 
 ## 功能特点
 
