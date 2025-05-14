@@ -19,7 +19,6 @@ Replay helper - 回放管理插件
 §6!!rp <玩家> start§r - 开始录制并重置计时器
 §6!!rp <玩家> stop§r - 停止录制并取消计时器
 §6!!rp <玩家> cut§r - 剪切回放并重置计时器
-    该插件由EXE_autumnwind编写
 """.strip()
 
 
