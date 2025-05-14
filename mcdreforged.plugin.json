@@ -1,9 +1,9 @@
 {
-  "id": "rp",
+  "id": "replay_helper",
   "version": "1.0.0",
   "name": "ReplayHelper",
   "description": {
-    "zh_cn": "一个ReplayServer控制器"
+    "zh_cn": "一个ReplayServer控制器,为每位玩家单独录制并自动切断"
 },
   "author": "EXE_autumnwind",
   "link": "https://github.com/EXE-autumnwind/ReplayHelper",
